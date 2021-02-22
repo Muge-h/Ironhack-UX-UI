@@ -1,0 +1,20 @@
+body {margin: 0;}
+
+h1 {color: peru;}
+
+
+h4 {
+    color:chocolate;
+}
+h3 {
+
+            color:#6495ed;
+        } 
+   
+        header{
+            background-color: darkslategrey;
+        }
+
+        div {
+            /* border:solid 1 px yellow; */
+        }
